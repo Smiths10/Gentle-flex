@@ -1,0 +1,7 @@
+{
+  "name": "Gentle GIX - Advanced Trading Assistant",
+  "description": "Professional auto-trading assistant with real-time market analysis, multi-broker API integration, and advanced risk management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
